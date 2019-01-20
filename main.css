@@ -90,6 +90,11 @@ section, .project {
     margin: 5px;
 }
 
+.project {
+    border-bottom: 2px solid rgb(146, 151, 243);
+    padding: 20px 0;
+}
+
 .screenshot {
     width: 80%;
     margin-top: 10px;
