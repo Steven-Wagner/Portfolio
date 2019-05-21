@@ -102,11 +102,12 @@ section, .project {
 
 .project-tools {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
 .project-tools img {
-    margin: 0 15px 0 15px;
+    margin: 0 15px 5px 15px;
     height: 25px;
 }
 
