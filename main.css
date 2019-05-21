@@ -107,6 +107,11 @@ section, .project {
 
 .project-tools img {
     margin: 0 15px 0 15px;
+    height: 25px;
+}
+
+.double-width-pic {
+    width: 50px;
 }
 
 .contact-icons {

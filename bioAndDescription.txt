@@ -1,0 +1,39 @@
+headline - 1-2 sentences - who you are and why you're interested in coding
+
+
+
+
+
+Hi, my name is Steve. I'm a full-stack developer & coding enthusiast
+
+
+
+
+
+bio - story about yourself focus on tech and problems you like working on
+
+
+
+
+
+I'm a web developer who loves coding and solving problems. I love the challenge of learning new technologies and the satisfaction of solving a difficult problem that's been nagging at me for days. It's awesome to be able to build pages that help users make their lives more enjoyable and more efficient, and I have developed all sorts of projects from games to time-saving recipe apps. I have a passion for creating useful content that people will enjoy, and I pride myself as being a person who is always learning.
+ 
+
+
+When I'm not coding, I like to mountain bike, write short stories, and play table-top games(and even try my hand at designing my own). My friends tell me I'm freakishly calm under pressure and a great leader who brings out the best in the people I work with.
+
+
+
+
+
+Skeptic Quiz
+
+
+
+
+A short quiz about the philosophy of skepticism, that hopefully encourages people to think a little bit more about how they 
+know what they know and stoke the fire of a little critical thinking.
+
+
+
+tech used - html5 JS CSS Jquery
