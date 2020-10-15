@@ -30,7 +30,6 @@ li {
     text-align: center;
     width: 30%;
     font-size: 16px;
-    font-family: 'Vollkorn', serif;
     font-weight: bold;
 }
 
@@ -45,7 +44,6 @@ li a:hover {
 }
 
 h1, h2, h3 {
-    font-family: 'Vollkorn', serif;
     text-align: center;
 }
 
